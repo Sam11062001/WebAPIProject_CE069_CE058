@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\bin\Debug\Voyage_Guide_Host.exe.config
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\bin\Debug\Voyage_Guide_Host.exe
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\bin\Debug\Voyage_Guide_Host.pdb
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\bin\Debug\Voyage_Guide.dll
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\bin\Debug\Voyage_Guide.pdb
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\bin\Debug\Voyage_Guide.dll.config
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\obj\Debug\Voyage_Guide_Host.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\obj\Debug\Voyage_Guide_Host.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\obj\Debug\Voyage_Guide_Host.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\obj\Debug\Voyage_Guide_Host.exe
+C:\Users\LENOVO\source\repos\Voyage_Guide\Voyage_Guide_Host\obj\Debug\Voyage_Guide_Host.pdb
